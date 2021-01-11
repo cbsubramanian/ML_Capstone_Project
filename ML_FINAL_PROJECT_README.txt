@@ -14,6 +14,7 @@ This project exposes the basics of Python ML Programming and using the classific
 The file ML_Final_Project.ipynb is the notebook (Jupyter) code for implementing the project. It uses the load_train.csv for the full training data set and load_test.csv for the test set. 
 
 The final accuracy score matric is showed using Jaccard Index, F1-score and LogLoss. 
-The logic regression still is providing a better correlation and a larger data set and correct sampling would provide more better accuracy of prediction. 
+The logic regression still is providing a decent correlation and a larger data set and correct sampling would provide more better accuracy of prediction. 
+In this experimental analysis KNN seems to be giving the best accuracy closer to 80%. 
 
 Mydecisiontree.png is the final output of my decision tree classification algorithm on the loan data set. 
